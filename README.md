@@ -30,6 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postman/postman-original.svg" height="40" alt="Postman logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" height="40" alt="HTML logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="40" alt="Git logo"  />
 </div>
 
 ###

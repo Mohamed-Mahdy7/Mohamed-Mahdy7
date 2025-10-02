@@ -17,7 +17,7 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flask/flask-original.svg" height="40" alt="Flask logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" height="40" alt="Django logo"  />
   <img width="12" />
@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" height="40" alt="MySql logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="SSMS logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="SSMS logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postman/postman-original.svg" height="40" alt="Postman logo"  />
   <img width="12" />

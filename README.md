@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m a curious and dedicated backend developer who enjoys solving complex problems and building systems that make users’ lives easier. I thrive in fast-paced environments, work well under pressure, and value clean, maintainable code. I’m proactive, detail-oriented, and enjoy learning new technologies quickly. Beyond coding, I focus on understanding the bigger picture, collaborating effectively with teams, and delivering solutions that truly add value</p>
+<p align="left">I’m a curious and dedicated full-stack developer who enjoys solving complex problems and building systems that make users’ lives easier. I thrive in fast-paced environments, work well under pressure, and value clean, maintainable code. I’m proactive, detail-oriented, and enjoy learning new technologies quickly. Beyond coding, I focus on understanding the bigger picture, collaborating effectively with teams, and delivering solutions that truly add value</p>
 
 ###
 

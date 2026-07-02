@@ -44,44 +44,38 @@ A POS and inventory management system built with Flask and SQL Server, supportin
 
 <div align="left">
 
-### Backend
-
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="40" alt="Python" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" height="40" alt="Django" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/djangorest/djangorest-original-wordmark.svg" height="40" alt="DRF" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flask/flask-original.svg" height="40" alt="Flask" />
-
-### Frontend
-
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" height="40" alt="React" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-
-### Databases
-
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="SQL Server" />
-
-### Tools
-
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="40" alt="Git" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" height="40" alt="GitHub" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" height="40" alt="Docker" />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" height="40" alt="Linux" />
-<img width="12" />
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="JS logo"/>
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" height="40" alt="Django logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/djangorest/djangorest-original-wordmark.svg" height="40" alt="DRF logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flask/flask-original.svg" height="40" alt="Flask logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" height="40" alt="MySql logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="SSMS logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" height="40" alt="React logo"/>
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" height="40" alt="HTML logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" height="40" alt="CSS logo"/>
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="40" alt="Git logo"  />
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" height="40" alt="Linux logo"/>
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" height="40" alt="Docker logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-original.svg" height="40" alt="Redis logo"/>
+  <img width="12"/>
+</div>
 
 </div>
 

@@ -69,11 +69,15 @@ A POS and inventory management system built with Flask and SQL Server, supportin
   <img width="12"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="40" alt="Git logo"  />
   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" height="40" alt="GitHub logo"  />
+  <img width="12"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" height="40" alt="Linux logo"/>
   <img width="12"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" height="40" alt="Docker logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-original.svg" height="40" alt="Redis logo"/>
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" height="40" alt="Bash logo"/>
   <img width="12"/>
 </div>
 

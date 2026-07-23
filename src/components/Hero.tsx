@@ -4,10 +4,9 @@ import { GithubIcon, LinkedinIcon } from './Icons'
 
 const techBadges = ['Python', 'Django', 'React', 'PostgreSQL', 'RAG / AI', 'Docker']
 
-// ── Replace this with your actual photo path once you have one ──────────
-// e.g. import photo from '../assets/photo.jpg'   then use  src={photo}
-// or:  const PHOTO_SRC = '/photo.jpg'
-const PHOTO_SRC: string | null = null   // set to your photo path
+import photo from '../assets/photo.jpg'
+
+const PHOTO_SRC = photo
 
 function ProfilePhoto() {
   return (

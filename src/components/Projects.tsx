@@ -28,7 +28,7 @@ const projects: Project[] = [
     tech: ['Django', 'DRF', 'React', 'PostgreSQL', 'pgvector', 'Gemini API', 'Celery', 'Redis', 'Railway', 'Vercel'],
     color: '#818cf8',
     gradient: 'linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)',
-    github: 'https://github.com/Mohamed-Mahdy7',
+    github: 'https://github.com/Mohamed-Mahdy7/AcademyQ',
     highlights: [
       '47 documented REST API endpoints with RBAC',
       'RAG pipeline on pgvector + Gemini API',
@@ -49,7 +49,7 @@ const projects: Project[] = [
     tech: ['Django', 'DRF', 'pgvector', 'WebSockets', 'JWT Auth', 'RBAC', 'PostgreSQL'],
     color: '#06b6d4',
     gradient: 'linear-gradient(135deg, #0891b2 0%, #06b6d4 100%)',
-    github: 'https://github.com/Mohamed-Mahdy7',
+    github: 'https://github.com/Mohamed-Mahdy7/PDFs-Chat',
     highlights: [
       'Full RAG pipeline with PDF chunking and vectorization',
       'WebSocket-driven real-time chat responses',
@@ -68,7 +68,6 @@ const projects: Project[] = [
     tech: ['Python', 'Flask', 'SQLAlchemy', 'pyodbc', 'SQL Server', 'JWT Auth', 'REST API', 'Postman'],
     color: '#f59e0b',
     gradient: 'linear-gradient(135deg, #d97706 0%, #f59e0b 100%)',
-    github: 'https://github.com/Mohamed-Mahdy7',
     highlights: [
       'RESTful APIs for POS and session management',
       'Third-party integration support with documented Postman collections',
@@ -87,7 +86,7 @@ const projects: Project[] = [
     tech: ['HTML5', 'CSS3', 'JavaScript', 'Bootstrap 5', 'jQuery', 'LocalStorage API'],
     color: '#34d399',
     gradient: 'linear-gradient(135deg, #059669 0%, #34d399 100%)',
-    github: 'https://github.com/Mohamed-Mahdy7',
+    github: 'https://github.com/Mohamed-Mahdy7/VegistProject',
     highlights: [
       'Multi-actor role system (customer, admin, vendor)',
       'Full shopping flow: browse, cart, checkout, orders',
@@ -106,7 +105,7 @@ const projects: Project[] = [
     tech: ['Bash', 'Shell Scripting', 'Flat-file Storage', 'Automated Testing', 'CRUD'],
     color: '#a78bfa',
     gradient: 'linear-gradient(135deg, #7c3aed 0%, #a78bfa 100%)',
-    github: 'https://github.com/Mohamed-Mahdy7',
+    github: 'https://github.com/Mohamed-Mahdy7/Student-Grade-Managment-System',
     highlights: [
       '240-case automated test suite (238/240 passing, 99% coverage)',
       'Full CRUD for students, grades, and courses',
@@ -125,7 +124,7 @@ const projects: Project[] = [
     tech: ['Python', 'Flask', 'SQLAlchemy', 'pyodbc', 'SQL Server', 'REST API'],
     color: '#ec4899',
     gradient: 'linear-gradient(135deg, #db2777 0%, #ec4899 100%)',
-    github: 'https://github.com/Mohamed-Mahdy7',
+    github: 'https://github.com/Mohamed-Mahdy7/Finvo',
     highlights: [
       'Client and invoice CRUD with relational integrity',
       'SQLAlchemy ORM with pyodbc SQL Server connection',

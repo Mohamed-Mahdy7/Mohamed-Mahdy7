@@ -89,5 +89,6 @@ A POS and inventory management system built with Flask and SQL Server, supportin
 
 - LinkedIn: *www.linkedin.com/in/mohamed-mahdy257*
 - Email: *mohamedmahdy648@email.com*
+- Portfolio: *https://www.mohamedmahdy.dev/*
 
 ###

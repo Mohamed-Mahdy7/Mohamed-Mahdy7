@@ -37,7 +37,7 @@ const certifications = [
     date: 'Dec 2025',
     color: '#f59e0b',
     // ── Replace with your actual certificate verification URL ──
-    verifyUrl: 'https://www.mckinsey.com/forward/overview',
+    verifyUrl: 'https://www.credly.com/badges/3aed24a4-e24e-44f8-b2e4-09cea0a1dda6/linked_in_profile',
     verifyLabel: 'View Certificate',
     description:
       "A rigorous leadership and problem-solving program by McKinsey covering structured thinking, adaptability frameworks, and professional communication — delivered to top talent globally.",
@@ -48,7 +48,7 @@ const certifications = [
     date: 'Dec 2025',
     color: '#A78BFA',
     // ── Replace with your actual CS50 certificate URL from certificates.cs50.io ──
-    verifyUrl: 'https://certificates.cs50.io',
+    verifyUrl: 'https://certificates.cs50.io/4e7d0a6f-4db0-4264-a9cc-93807056342c.pdf?size=letter',
     verifyLabel: 'View Certificate',
     description:
       "Harvard's world-renowned CS introduction covering algorithms, data structures, memory management, C, Python, SQL, and web development fundamentals. Verified via edX / CS50 certificate system.",

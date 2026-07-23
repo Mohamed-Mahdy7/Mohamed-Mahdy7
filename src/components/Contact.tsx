@@ -26,15 +26,59 @@ export default function Contact() {
     return Object.keys(e).length === 0
   }
 
-  const handleSubmit = (e: FormEvent) => {
+  const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault()
+
+    // Validate the form first
     if (!validate()) return
+
     setSending(true)
-    setTimeout(() => {
+
+    try {
+      const response = await fetch('https://api.web3forms.com/submit', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Accept: 'application/json',
+        },
+        body: JSON.stringify({
+          access_key: import.meta.env.VITE_WEB3FORMS_ACCESS_KEY,
+
+          name: form.name,
+          email: form.email,
+          subject: form.subject || 'New Portfolio Contact',
+          message: form.message,
+
+          from_name: 'Portfolio Contact Form',
+        }),
+      })
+
+      const result = await response.json()
+
+      if (result.success) {
+        // Message was successfully sent
+        setSent(true)
+
+        // Clear the form
+        setForm({
+          name: '',
+          email: '',
+          subject: '',
+          message: '',
+        })
+
+        // Clear validation errors
+        setErrors({})
+      } else {
+        console.error('Web3Forms error:', result)
+        alert('Failed to send the message. Please try again.')
+      }
+    } catch (error) {
+      console.error('Error sending message:', error)
+      alert('Something went wrong. Please try again.')
+    } finally {
       setSending(false)
-      setSent(true)
-      setForm({ name: '', email: '', subject: '', message: '' })
-    }, 1500)
+    }
   }
 
   const inputStyle = (hasError?: boolean) => ({

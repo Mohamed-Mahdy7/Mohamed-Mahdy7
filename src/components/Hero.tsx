@@ -260,7 +260,7 @@ export default function Hero({ onViewCV }: { onViewCV: () => void }) {
                 color: 'var(--c-text)',
               }}
             >
-              Mohamed<br />Mahdy
+              Mohamed Mahdy
             </motion.h1>
 
             <motion.div
